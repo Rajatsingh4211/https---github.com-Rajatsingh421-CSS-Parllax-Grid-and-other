@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cont{
+    height: 400px;
+    width: 100%;
+    background-color: brown;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1{
+    position: absolute;
+    left: 20px;
+    top: 25px;
+    border: 1px solid black;
+    height: 250px;
+    width: 250px;
+    background-color: aqua;
+}
+.box2{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    border: 1px solid black;
+    height: 250px;
+    width: 250px;
+    background-color: aqua;
+}
+.box3{
+    border: 1px solid black;
+    height: 250px;
+    width: 250px;
+    background-color: aqua;
+}
+.box4{
+    border: 1px solid black;
+    height: 250px;
+    width: 250px;
+    background-color: aqua;
+}
